@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/bqs" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/dynamicProgramming" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/functions" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/graphs" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/greedy" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/lab_1" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/life" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/pq" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/reduction" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/sort" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/symbolTable" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/threesum" />
+      <excludeFolder url="file://$MODULE_DIR$/java/edu/neu/coe/info6205/union_find" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="main" />
+  </component>
+</module>
